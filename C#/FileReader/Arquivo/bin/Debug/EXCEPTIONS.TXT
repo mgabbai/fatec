@@ -1,0 +1,16 @@
+﻿14/09/2017 11:59:26
+Parameter cannot be null
+Nome do parâmetro: original
+   em Arquivo.MainWindow.AbrirArquivoOk(Object sender, CancelEventArgs e) na C:\Users\marci\Documents\FATEC\4º S nbhjbujuvEM\C#\Arquivo\Arquivo\MainWindow.xaml.cs:linha 73
+14/09/2017 12:00:12
+Parameter cannot be null
+Nome do parâmetro: original
+   em Arquivo.MainWindow.AbrirArquivoOk(Object sender, CancelEventArgs e) na C:\Users\marci\Documents\FATEC\4º SEM\C#\Arquivo\Arquivo\MainWindow.xaml.cs:linha 73
+21/09/2017 11:26:12
+Parameter cannot be null
+Nome do parâmetro: original
+Arquivo
+System.ArgumentException
+Void AbrirArquivoOk(System.Object, System.ComponentModel.CancelEventArgs)
+102
+------------------------------------------------------------

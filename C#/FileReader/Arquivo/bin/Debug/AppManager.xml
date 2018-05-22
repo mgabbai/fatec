@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AppManager</name>
+    </assembly>
+    <members>
+        <member name="T:AppManager.AppException">
+            <summary>
+            Tratamento Exceções
+            </summary>
+        </member>
+        <member name="P:AppManager.AppException.PathSaveFile">
+            <summary>
+            Obtem ou define o caminho fisico para gravar o arquivo Exceptions.txt - 
+            Default = CurrentDirectory
+            </summary>
+        </member>
+        <member name="M:AppManager.AppException.SaveException(System.Exception)">
+            <summary>
+            Salva a exceção 'ex' no caminho no caminho PathSaveFile
+            </summary>
+            <param name="ex">Classe exception  com os dados da ultima exceção</param>
+        </member>
+    </members>
+</doc>
